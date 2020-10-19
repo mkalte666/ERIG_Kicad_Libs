@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name ERIG_Transformer)(type Legacy)(uri ${KIPRJMOD}/Libraries/ERIG_Transformer.lib)(options "")(descr ""))
+  (lib (name ERIG_Relay)(type Legacy)(uri ${KIPRJMOD}/Libraries/ERIG_Relay.lib)(options "")(descr ""))
+)
