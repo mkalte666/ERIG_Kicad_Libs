@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP EPM0510SJ_1208AE
+D Isolated 110~450V DC/DC Converter. Fixed 5V output
+F https://www.tamura-ss.co.jp/en/electronics/pdf/EPM0510SJ_1208AE.pdf
+$ENDCMP
+#
+$CMP EPM1210SJ_1212AE
+D Isolated 110~450V DC/DC Converter. Fixed 12V output
+F https://www.tamura-ss.co.jp/en/electronics/pdf/EPM1210SJ_1212AE.pdf
+$ENDCMP
+#
+#End Doc Library

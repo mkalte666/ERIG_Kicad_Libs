@@ -2,4 +2,5 @@
   (lib (name ERIG_Transformers)(type KiCad)(uri ${KIPRJMOD}/Footprints/ERIG_Transformer.pretty)(options "")(descr ""))
   (lib (name ERIG_Relay)(type KiCad)(uri ${KIPRJMOD}/Footprints/ERIG_Relay.pretty)(options "")(descr ""))
   (lib (name ERIG_Diode)(type KiCad)(uri ${KIPRJMOD}/Footprints/ERIG_Diode.pretty)(options "")(descr ""))
+  (lib (name ERIG_Converter_DCDC)(type KiCad)(uri ${KIPRJMOD}/Footprints/ERIG_Converter_DCDC.pretty)(options "")(descr ""))
 )
