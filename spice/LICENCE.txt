@@ -1,0 +1,3 @@
+Copyright (c) of the spice models is whatever the model in the files say. 
+
+Everything not explicitly licenced should still fall under the project licence.
